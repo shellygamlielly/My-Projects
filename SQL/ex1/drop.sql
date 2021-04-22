@@ -1,0 +1,5 @@
+DROP TABLE Participated;
+DROP TABLE Event;
+DROP TABLE Games;
+DROP TABLE Team;
+DROP TABLE Athlete;
